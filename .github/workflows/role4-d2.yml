@@ -1,0 +1,56 @@
+name: Role 4 - D2 Trend Agent
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-d2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run D2 and verify fresh output
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          output=W12_Role4_YQFix/events.json
+          if [ -f "$output" ]; then
+            mv "$output" "$RUNNER_TEMP/events-before-d2.json"
+          fi
+
+          result=0
+          python W12_Role4_YQFix/trend_agent.py \
+            --date 2026-11-21 --model gemini-3.5-flash || result=$?
+
+          test -s "$output"
+          if [ "$result" -eq 2 ]; then
+            echo "::warning::D2 produced events.json with one or more failed evidence checks."
+          elif [ "$result" -ne 0 ]; then
+            exit "$result"
+          fi
+
+      - name: Save this run's output
+        uses: actions/upload-artifact@v4
+        with:
+          name: role4-d2-events
+          path: W12_Role4_YQFix/events.json
+          if-no-files-found: error
+
+      - name: Commit updated results
+        run: |
+          git add W12_Role4_YQFix/events.json
+          if git diff --cached --quiet; then
+            echo "Fresh output matches the repository copy. See the run artifact."
+          else
+            git -c user.name="github-actions[bot]" \
+                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+                commit -m "Update Role 4 D2 events"
+            git push
+          fi
