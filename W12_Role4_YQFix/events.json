@@ -1,0 +1,580 @@
+{
+  "events": [
+    {
+      "brand": "Q Burger",
+      "event_date": null,
+      "announce_date": "2026-11-13",
+      "topic_tags": [
+        "產品與定位"
+      ],
+      "summary": "Q Burger推廣嚴選100%阿拉比卡咖啡豆與100%純鮮乳產品，強調選用真牛奶並支持台灣酪農。",
+      "partner": null,
+      "company_statement": "選用純鮮乳與特選咖啡豆旨在提供安心美味的早餐並支持在地酪農。",
+      "original_quote": "Q Burger 堅持選用\n☕嚴選100%阿拉比卡咖啡豆\n🥛搭配100%純真鮮乳細緻融合",
+      "source_url": "https://www.qburger.com.tw/article/131-%E5%9A%B4%E9%81%B8%E9%85%AA%E8%BE%B2%EF%BD%9C100",
+      "is_plan": false,
+      "limitations": "無具體事件發生日期。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": false,
+        "quote_location": "body",
+        "error": "Quote was empty or not found in the specified article text."
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": null,
+      "announce_date": "2026-11-03",
+      "topic_tags": [
+        "產品與定位"
+      ],
+      "summary": "Q Burger推出冬季限定新品「椒麻鍋燒麵」，包含椒麻鮮蔬與椒麻里肌豬排兩款選擇。",
+      "partner": null,
+      "company_statement": "推出熱騰騰的椒麻鍋燒麵旨在天冷時為顧客帶來暖胃與幸福的體驗。",
+      "original_quote": "❄️冬季限定【椒麻鍋燒麵】熱呼呼上市🔥",
+      "source_url": "https://www.qburger.com.tw/article/130-%E5%86%AC%E5%AD%A3%E9%99%90%E5%AE%9A%EF%BD%9C%E6%A4%92%E9%BA%BB%E9%8D%8B",
+      "is_plan": false,
+      "limitations": "無具體開賣確切日期。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-11-26",
+      "announce_date": "2026-10-30",
+      "topic_tags": [
+        "財務與營運"
+      ],
+      "summary": "Q Burger預告將於11月26日至11月27日在三重捐血室及板橋捐血站舉辦感恩節公益捐血活動。",
+      "partner": null,
+      "company_statement": "響應公益捐血旨在將感謝化為行動，為生命加油並落實企業社會責任。",
+      "original_quote": "11/26(四)-11/27(五) Q Burger 公益捐血",
+      "source_url": "https://www.qburger.com.tw/article/129-%F0%9F%A7%A1-%E6%84%9F%E6%81%A9%E7%AF%80%EF%BC%8C%E8%AE%93%E6%84%9B",
+      "is_plan": true,
+      "limitations": "贈品與詳細活動內容尚待後續公開。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": null,
+      "announce_date": "2026-10-29",
+      "topic_tags": [
+        "產品與定位"
+      ],
+      "summary": "Q Burger推出冬季限定新品「巧達玉米濃湯」。",
+      "partner": null,
+      "company_statement": "推出巧達玉米濃湯旨在冷天早餐時段為顧客提供溫暖與飽足感。",
+      "original_quote": "✨ 【巧達玉米濃湯】暖胃新登場✨",
+      "source_url": "https://www.qburger.com.tw/article/128-%E3%80%90%E5%B7%A7%E9%81%94%E7%8E%89%E7%B1%B3%E6%BF%83%E6%B9%AF%E3%80%91",
+      "is_plan": false,
+      "limitations": "無具體開賣確切日期。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-11-02",
+      "announce_date": "2026-10-28",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger信義林口店於11月2日開幕，並舉辦APP會員優惠及轉轉樂活動。",
+      "partner": null,
+      "company_statement": "開設新門市與提供開幕促銷旨在吸引當地顧客並推廣APP點餐累點服務。",
+      "original_quote": "【信義林口店 11/02新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/127-%E3%80%90%E4%BF%A1%E7%BE%A9%E6%9E%97%E5%8F%A3%E5%BA%97-1",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": null,
+      "announce_date": "2026-10-27",
+      "topic_tags": [
+        "產品與定位"
+      ],
+      "summary": "Q Burger說明美生菜採購原則，冬季採用台灣在地食材，夏季則以更高成本選用美國進口食材，並落實門市清洗與檢驗程序。",
+      "partner": null,
+      "company_statement": "投入較高成本選擇品質良好的美生菜並落實檢驗清洗，旨在確保顧客吃到清甜爽脆且安心的餐點。",
+      "original_quote": "📍冬季，我們選用台灣在地美生菜🇹🇼\n📍夏季，我們選用美國進口美生菜🇺🇸",
+      "source_url": "https://www.qburger.com.tw/article/126-%F0%9F%A5%AC-%E4%B8%80%E7%89%87%E7%BE%8E%E7%94%9F%E8%8F%9C%EF%BC%8C",
+      "is_plan": false,
+      "limitations": "無具體事件日期與採購金額數據。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-10-23",
+      "announce_date": "2026-10-22",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger高雄濱山店於10月23日開幕，推出買三明治送紅茶與APP會員咖啡買一送一優惠。",
+      "partner": null,
+      "company_statement": "推出開幕優惠旨在服務周邊顧客並宣傳APP點餐快取優惠。",
+      "original_quote": "【高雄濱山店 10/23新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/125-%E3%80%90%E9%AB%98%E9%9B%84%E6%BF%B1%E5%B1%B1%E5%BA%97-1",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": null,
+      "announce_date": "2026-10-06",
+      "topic_tags": [
+        "產品與定位"
+      ],
+      "summary": "Q Burger推出5款萬聖節限定早餐品項，涵蓋可朗芙、吐司與蜂蜜蛋餅系列。",
+      "partner": null,
+      "company_statement": "推出萬聖節主題限定產品旨在增添早餐消費的樂趣與節慶體驗。",
+      "original_quote": "5款萬聖節限定早餐，搞怪登場——",
+      "source_url": "https://www.qburger.com.tw/article/124-happy-halloween-q-burger",
+      "is_plan": false,
+      "limitations": "無具體販售起訖日期。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-10-06",
+      "announce_date": "2026-10-06",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger中正延平南店於10月6日開幕，並推出APP會員9折、咖啡買一送一與現萃茶買一送一促銷。",
+      "partner": null,
+      "company_statement": "開幕活動旨在提供區域居民美味餐點與推廣APP優惠。",
+      "original_quote": "【中正延平南店 10/06新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/119-%E3%80%90%E4%B8%AD%E6%AD%A3%E5%BB%B6%E5%B9%B3%E5%8D%97%E5%BA%97",
+      "is_plan": false,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-10-06",
+      "announce_date": "2026-10-06",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger蘆洲信義店於10月6日開幕，推出APP會員優惠及開幕轉轉樂活動。",
+      "partner": null,
+      "company_statement": "藉開幕優惠吸引顧客並提高APP會員參與度。",
+      "original_quote": "【蘆洲信義店 10/06新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/120-%E3%80%90%E8%98%86%E6%B4%B2%E6%96%B0%E8%8E%8A%E5%BA%97-1",
+      "is_plan": false,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-10-06",
+      "announce_date": "2026-10-06",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger新莊新豐店於10月6日開幕，推出APP會員9折、咖啡買一送一及轉轉樂促銷。",
+      "partner": null,
+      "company_statement": "展店並搭配開幕活動旨在深化區域經營與推廣數位點餐。",
+      "original_quote": "【新莊新豐店 10/06新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/122-%E3%80%90%E6%96%B0%E8%8E%8A%E6%96%B0%E8%B1%90%E5%BA%97-1",
+      "is_plan": false,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-10-02",
+      "announce_date": "2026-10-02",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger中正汀州店於10月2日開幕，開幕期間推APP會員9折、咖啡買一送一與幸運轉轉樂。",
+      "partner": null,
+      "company_statement": "開幕促銷活動旨在吸引商圈顧客並推展APP點餐與累點功能。",
+      "original_quote": "【 中正汀州店 10/02新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/121-%E3%80%90%E4%B8%AD%E6%AD%A3%E6%B1%80%E5%B7%9E%E5%BA%97-1",
+      "is_plan": false,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-10-01",
+      "announce_date": "2026-10-01",
+      "topic_tags": [
+        "通路與平台",
+        "加盟與合作"
+      ],
+      "summary": "Q Burger與悠遊付合作，於2026年10月1日至12月31日期間使用悠遊付消費可享有最高13%回饋。",
+      "partner": "悠遊付",
+      "company_statement": "與電子支付平台合作提供促銷旨在回饋顧客並提昇數位支付使用比率。",
+      "original_quote": "使用【悠遊付】付款，消費達門檻享回饋：",
+      "source_url": "https://www.qburger.com.tw/article/123-%E6%82%A0%E9%81%8A%E4%BB%98-%E9%A4%90%E5%BB%B3%E6%9C%80%E9%AB%98",
+      "is_plan": false,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-09-16",
+      "announce_date": "2026-09-16",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger大里德芳店於9月16日開幕，並推廣APP會員咖啡買一送一活動。",
+      "partner": null,
+      "company_statement": "新店開幕活動旨在吸引當地顧客消費並推廣品牌會員服務。",
+      "original_quote": "【大里德芳店 09/16新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/117-%E5%A4%A7%E9%87%8C%E5%BE%B7%E8%8A%B3%E5%BA%97-09",
+      "is_plan": false,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-09-07",
+      "announce_date": "2026-09-04",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger新店中華店於9月7日開幕，舉辦APP會員全面9折、咖啡買一送一與幸運轉轉樂。",
+      "partner": null,
+      "company_statement": "開設新門市與提供多重促銷旨在推廣品牌餐點與便利的APP點餐體驗。",
+      "original_quote": "【新店中華店 09/07新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/116-%E3%80%90%E6%96%B0%E5%BA%97%E4%B8%AD%E8%8F%AF%E5%BA%97-0",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": null,
+      "announce_date": "2026-09-01",
+      "topic_tags": [
+        "產品與定位",
+        "加盟與合作"
+      ],
+      "summary": "Q Burger推出世界風味賞十週年「港澳站」新品，並聯名老字號「中一排骨」推出帶骨豬扒包與公仔麵等多款港澳風味餐點。",
+      "partner": "中一排骨",
+      "company_statement": "跨界合作並引進港澳道地特色美食旨在讓顧客無需出國即可體驗異國美味早餐。",
+      "original_quote": "再次攜手台灣 30 年老字號「中一排骨」",
+      "source_url": "https://www.qburger.com.tw/article/115-q-burger%E6%B8%AF%E6%BE%B3%E7%AB%99%E7%99%BB%E5%A0%B4",
+      "is_plan": false,
+      "limitations": "無具體販售起訖日期。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-09-01",
+      "announce_date": "2026-08-31",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger桃園宏昌店於9月1日開幕，提供APP會員全面9折、咖啡買一送一及轉轉樂活動。",
+      "partner": null,
+      "company_statement": "透過開幕促銷吸引顧客前來享用餐點並促進APP會員綁定使用。",
+      "original_quote": "【桃園宏昌店 09/01新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/114-%E3%80%90%E6%A1%83%E5%9C%92%E5%AE%8F%E6%98%8C%E5%BA%97-0",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-09-01",
+      "announce_date": "2026-08-31",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger新莊中港店於9月1日開幕，推出APP會員9折、咖啡買一送一與幸運轉轉樂。",
+      "partner": null,
+      "company_statement": "開幕折扣優惠旨在回饋周邊居民並帶動門市來客量。",
+      "original_quote": "【新莊中港店 09/01新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/113-%E3%80%90%E6%96%B0%E8%8E%8A%E4%B8%AD%E6%B8%AF%E5%BA%97-0",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-09-01",
+      "announce_date": "2026-08-31",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger泰山義學店於9月1日開幕，推出APP會員全面9折及咖啡買一送一優惠。",
+      "partner": null,
+      "company_statement": "提供開幕優惠旨在深耕在地社區並介紹顧客使用APP點餐。",
+      "original_quote": "【泰山義學店 09/01新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/111-%E3%80%90%E6%B3%B0%E5%B1%B1%E7%BE%A9%E5%AD%B8%E5%BA%97-0",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-09-01",
+      "announce_date": "2026-08-31",
+      "topic_tags": [
+        "門市與展店",
+        "會員與數位服務"
+      ],
+      "summary": "Q Burger北投實踐店於9月1日開幕，提供APP會員全面9折與咖啡買一送一等活動。",
+      "partner": null,
+      "company_statement": "開幕促銷活動旨在吸引區域顧客前往消費並提升品牌認知度。",
+      "original_quote": "【北投實踐店 09/01新開幕🎊】",
+      "source_url": "https://www.qburger.com.tw/article/112-%E3%80%90%E5%8C%97%E6%8A%95%E5%AF%A6%E8%B8%90%E5%BA%97-0",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "Q Burger",
+      "event_date": "2026-09-01",
+      "announce_date": "2026-08-26",
+      "topic_tags": [
+        "產品與定位",
+        "財務與營運"
+      ],
+      "summary": "Q Burger於9月1日至9月3日推出93軍人節優惠，出示軍人證或福利證享門市全品項93折。",
+      "partner": null,
+      "company_statement": "推出敬軍優惠旨在向守護國家的國軍官兵致以最高敬意與感謝。",
+      "original_quote": "凡至門市出示本人軍人證或福利證， 即享全品項93折。",
+      "source_url": "https://www.qburger.com.tw/article/110-%F0%9F%AB%A1%E8%87%B4%E6%95%AC%E5%9C%8B%E8%BB%8D%E8%8B%B1%E9%9B%84",
+      "is_plan": true,
+      "limitations": "無",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "body"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "麥味登",
+      "event_date": null,
+      "announce_date": "2026-11-10",
+      "topic_tags": [
+        "產品與定位"
+      ],
+      "summary": "麥味登宣示其全品項餐點無添加人工色素及人工防腐劑。",
+      "partner": null,
+      "company_statement": "全品項無添加訴求旨在強調飲食安全與健康品質保障。",
+      "original_quote": "【麥味登】全品項無添加人工色素及人工防腐劑",
+      "source_url": "https://www.youngqin.com.tw//index.php?code=list&flag=detail&ids=884&article_id=6982",
+      "is_plan": false,
+      "limitations": "內文為空，缺乏詳細說明與日期。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "title"
+      },
+      "source_level": "A"
+    },
+    {
+      "brand": "麥味登",
+      "event_date": null,
+      "announce_date": "2026-10-06",
+      "topic_tags": [
+        "加盟與合作"
+      ],
+      "summary": "麥味登參與2026世界加盟展。",
+      "partner": null,
+      "company_statement": "參展世界加盟展旨在展示品牌特色並吸引投資加盟創業。",
+      "original_quote": "【參展紀錄】2026世界加盟展_麥味登",
+      "source_url": "https://www.youngqin.com.tw//index.php?code=list&flag=detail&ids=884&article_id=6949",
+      "is_plan": false,
+      "limitations": "內文為空，缺乏具體展期細節。",
+      "check_result": {
+        "url_opens": true,
+        "original_quote_matches": true,
+        "quote_location": "title"
+      },
+      "source_level": "A"
+    }
+  ],
+  "excluded": [
+    {
+      "source_url": "https://www.youngqin.com.tw//index.php?code=list&flag=detail&ids=884&article_id=6983",
+      "title": "【APP商城】雙11限時優惠中!!",
+      "reason": "內文為空且標題未直接提及 Q Burger 或麥味登。"
+    },
+    {
+      "source_url": "https://www.youngqin.com.tw//index.php?code=list&flag=detail&ids=884&article_id=6952",
+      "title": "【企業榮耀】揚秦國際企業榮獲 第23屆 國家品牌玉山獎-最佳產品類 原塊嫩雞起司滿分堡、元氣蛋白系列餐點",
+      "reason": "內文為空且標題未直接提及 Q Burger 或麥味登。"
+    },
+    {
+      "source_url": "https://www.youngqin.com.tw//index.php?code=list&flag=detail&ids=884&article_id=6951",
+      "title": "【企業榮耀】揚秦國際企業榮獲2026天下永續公民獎",
+      "reason": "內文為空且標題未直接提及 Q Burger 或麥味登。"
+    },
+    {
+      "source_url": "https://www.youngqin.com.tw//index.php?code=list&flag=detail&ids=884&article_id=6950",
+      "title": "【參展紀錄】2026世界加盟展_炸雞大師",
+      "reason": "內容涉及炸雞大師，未直接提及 Q Burger 或麥味登。"
+    },
+    {
+      "source_url": "https://www.youngqin.com.tw//index.php?code=list&flag=detail&ids=884&article_id=6735",
+      "title": "【支付優惠】全支付滿$200享5%",
+      "reason": "內文為空且標題未直接提及 Q Burger 或麥味登。"
+    }
+  ],
+  "weekly_summary": [
+    {
+      "sentence": "Q Burger 在產品定位方面，推出純鮮乳系列、冬季限定椒麻鍋燒麵與巧達玉米濃湯、萬聖節限定產品，並聯名老字號「中一排骨」推出世界風味賞「港澳站」新品。",
+      "event_refs": [
+        0,
+        1,
+        3,
+        7,
+        15
+      ]
+    },
+    {
+      "sentence": "在營運品質與公益活動上，Q Burger 公開四季美生菜採購堅持，並預告舉辦感恩節捐血活動。",
+      "event_refs": [
+        2,
+        5
+      ]
+    },
+    {
+      "sentence": "展店方面，Q Burger 積極開設信義林口店、高雄濱山店、中正延平南店、蘆洲信義店、新莊新豐店、中正汀州店、大里德芳店、新店中華店、桃園宏昌店、新莊中港店、泰山義學店及北投實踐店，均搭配APP會員促銷活動。",
+      "event_refs": [
+        4,
+        6,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "sentence": "在行銷合作與折扣部分，Q Burger 推出悠遊付最高13%回饋及93軍人節全品項93折活動。",
+      "event_refs": [
+        12,
+        20
+      ]
+    },
+    {
+      "sentence": "麥味登方面，品牌強調全品項無添加人工色素與防腐劑，並參與2026世界加盟展推廣展店業務。",
+      "event_refs": [
+        21,
+        22
+      ]
+    }
+  ]
+}
